@@ -1,0 +1,34 @@
+<div class="YX-N-M-5589 m-section-module">
+    <div class="J_module_info f-hide" style="display: none;">
+        <div class="goodsId" data-goodsId="{{contentInfo.goodsId}}"></div>
+    </div>
+    <div class="m-5589-inner">
+             <div class="m-5589-title">
+                <div class="u-5589-border-content"><p data-h55970f92="title">{{contentInfo.title}}</p></div>
+            </div>
+            <ul class="m-5589-goods">
+                {{#temp}}
+                <li class="u-5589-goods">
+                    <div class="u-5589-goodsImg">
+                        <img src="{{primaryPicUrl}}" data-original="{{primaryPicUrl}}" class="J_lazyload" style="display: inline;">
+                        <div class="u-5589-goodsOptModal"></div>
+                        <div class="u-5589-goodsCart"><a href="javascript:;" class="J_5589_cart"><span class="u-5589-cartIcon"></span>立即购买</a></div>
+                        <div class="u-5589-getCoupon"><a target="_blank" href="{{couponLink}}"><span class="u-5589-CouponIcon"></span>领优惠券</a></div>
+                    </div>
+                    <div class="u-5589-intro"><a target="_blank" class="u-5589-title" href="http://you.163.com/item/detail?id={{id}}">{{title}}</a>
+                        <p class="u-5589-info">{{simpleDesc}}</p>
+                        {{#couponPrice}}
+                        <p class="u-5589-price">
+                            {{couponPrice}}<span class="u-5589-couponPrice"><span class="u-5589-unit">&yen;&nbsp;</span>{{couponPrice}}</span>
+                            <span class="u-5589-unitPrice">{{retailPrice}}</span>
+                        </p>
+                        {{/couponPrice}}
+                    </div>
+                </li>
+                {{/temp}}
+            </ul>
+    </div>
+
+</div>
+
+

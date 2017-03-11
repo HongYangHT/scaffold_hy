@@ -1,0 +1,7 @@
+node_modules/
+.scssc
+.sass-cache/
+./assets/
+dist
+*.zip
+scaffold

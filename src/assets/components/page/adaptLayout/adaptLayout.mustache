@@ -1,0 +1,10 @@
+<div class="g-adapt-doc" v-show="showAdaptFlag">
+	<div class="m-adapt-select">
+		<select v-model="selectAdapt">
+			<option v-for="item in adapt" v-bind:value="item.type">{{item.name}}</option>
+		</select>
+	</div>
+	<div id="adaptPreview" v-bind:style="{width:adaptItem.width + 'px',height:adaptItem.height + 'px'}">
+		<iframe src="iframe.html" height="100%" width="100%" name="adaptPreviewFrame" id="adaptPreviewFrame"></iframe>
+	</div>
+</div>

@@ -1,0 +1,310 @@
+.YX-N-M-EB26 {
+    position: relative;
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.YX-N-M-EB26 .m-EB26-title {
+    color: #333;
+    margin: 34px auto;
+    padding: 0;
+    font-size: 28px;
+    text-align: center;
+}
+
+.YX-N-M-EB26 .m-EB26-content {
+    position: relative;
+    width: 540px;
+    margin: 0 auto;
+}
+
+.YX-N-M-EB26 .u-EB26-goods {
+    display: block;
+    font-size: 0;
+    overflow: hidden;
+}
+
+.YX-N-M-EB26 .u-EB26-goods-img {
+    float: left;
+    width: 238px;
+    height: 236px;
+    border-top: 2px solid transparent;
+}
+
+.YX-N-M-EB26 .u-EB26-goods-info {
+    height: 240px;
+    padding-top: 50px;
+    margin-left: 238px;
+    padding-left: 70px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-top: 1px solid #eaeaea;
+}
+
+.YX-N-M-EB26 .u-EB26-goods-title {
+    color: #4d4d4d;
+    margin: 0;
+    padding: 0;
+    font-size: 28px;
+    line-height: 30px;
+}
+
+.YX-N-M-EB26 .u-EB26-goods-title a {
+    color: #4d4d4d;
+}
+
+.YX-N-M-EB26 .u-EB26-goods-price {
+    color: #464646;
+    margin: 10px auto;
+    font-size: 20px;
+}
+
+.YX-N-M-EB26 .u-EB26-goods-price .u-EB26-goods-couponPrice {
+    color: #b4272d;
+    font-size: 30px;
+}
+
+.YX-N-M-EB26 .u-EB26-goods-price .u-EB26-goods-couponPrice:before {
+    content: '¥';
+}
+
+.YX-N-M-EB26 .u-EB26-goods-price .u-EB26-goods-retailPrice {
+    color: #a5a5a5;
+    margin-left: 16px;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+
+.YX-N-M-EB26 .u-EB26-goods-price .u-EB26-goods-retailPrice:before {
+    content: '¥';
+}
+
+.YX-N-M-EB26 .u-EB26-goods-price .u-EB26-goods-retailPrice:after {
+    content: '*';
+}
+
+.YX-N-M-EB26 .u-EB26-goods-btn {
+    display: block;
+    width: 146px;
+    height: 48px;
+    color: #fff;
+    background-color: #b4282d;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    font-size: 20px;
+    line-height: 48px;
+    text-align: center;
+}
+
+.YX-N-M-EB26 .u-EB26-goods-tip {
+    color: #999;
+    margin: 5px auto 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 357px) {
+    html {
+        font-size: 312.5%;
+    }
+}
+
+@media only screen and (min-width: 357px) and (max-width: 375px) {
+    html {
+        font-size: 351.5625%;
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 400px) {
+    html {
+        font-size: 366.211%;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) {
+    html {
+        font-size: 390.625%;
+    }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 440px) {
+    html {
+        font-size: 404.2969%;
+    }
+}
+
+@media only screen and (min-width: 440px) and (max-width: 480px) {
+    html {
+        font-size: 429.6875%;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 520px) {
+    html {
+        font-size: 468.75%;
+    }
+}
+
+@media only screen and (min-width: 520px) and (max-width: 560px) {
+    html {
+        font-size: 507.8125%;
+    }
+}
+
+@media only screen and (min-width: 560px) and (max-width: 600px) {
+    html {
+        font-size: 546.875%;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 640px) {
+    html {
+        font-size: 585.9375%;
+    }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 680px) {
+    html {
+        font-size: 625%;
+    }
+}
+
+@media only screen and (min-width: 680px) and (max-width: 720px) {
+    html {
+        font-size: 664.0625%;
+    }
+}
+
+@media only screen and (min-width: 720px) and (max-width: 760px) {
+    html {
+        font-size: 703.125%;
+    }
+}
+
+@media only screen and (min-width: 760px) and (max-width: 800px) {
+    html {
+        font-size: 742.1875%;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 960px) {
+    html {
+        font-size: 781.25%;
+    }
+}
+
+@media only screen and (device-width: 320px) and (device-height: 480px) and (-webkit-min-pixel-ratio: 2) and (orientation: portrait) {
+    html {
+        font-size: 312.5%;
+    }
+}
+
+@media only screen and (device-width: 320px) and (device-height: 568px) and (-webkit-min-pixel-ratio: 2) and (orientation: portrait) {
+    html {
+        font-size: 312.5%;
+    }
+}
+
+@media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-min-pixel-ratio: 2) and (orientation: portrait) {
+    html {
+        font-size: 366.211%;
+    }
+}
+
+@media only screen and (device-width: 414px) and (device-height: 736px) and (-webkit-min-pixel-ratio: 3) and (orientation: portrait) {
+    html {
+        font-size: 404.2969%;
+    }
+}
+
+@media (max-width: 960px) {
+    .YX-N-M-EB26 {
+        position: relative;
+        width: 100%;
+        max-width: 640px;
+        margin: 0 auto;
+        padding: 0;
+    }
+    .YX-N-M-EB26 .m-EB26-title {
+        color: #333;
+        margin: .34rem auto;
+        padding: 0;
+        font-size: .28rem;
+        text-align: center;
+    }
+    .YX-N-M-EB26 .m-EB26-content {
+        position: relative;
+        width: 5.4rem;
+        margin: 0 auto;
+    }
+    .YX-N-M-EB26 .u-EB26-goods-img {
+        float: left;
+        width: 2.38rem;
+        height: 2.36rem;
+        border: 2px solid transparent;
+    }
+    .YX-N-M-EB26 .u-EB26-goods-info {
+        height: 2.4rem;
+        padding-top: .5rem;
+        margin-left: 2.38rem;
+        padding-left: .7rem;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        border-top: 1px solid #eaeaea;
+    }
+    .YX-N-M-EB26 .u-EB26-goods-title {
+        color: #4d4d4d;
+        margin: 0;
+        padding: 0;
+        font-size: .28rem;
+        line-height: .3rem;
+        text-overflow: ellipsis;
+        word-wrap: break-word;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+    .YX-N-M-EB26 .u-EB26-goods-price {
+        color: #464646;
+        margin: .1rem auto;
+        font-size: .2rem;
+    }
+    .YX-N-M-EB26 .u-EB26-goods-price .u-EB26-goods-couponPrice {
+        color: #b4272d;
+        font-size: .3rem;
+    }
+    .YX-N-M-EB26 .u-EB26-goods-price .u-EB26-goods-couponPrice:before {
+        content: '¥';
+    }
+    .YX-N-M-EB26 .u-EB26-goods-price .u-EB26-goods-retailPrice {
+        color: #a5a5a5;
+        margin-left: .16rem;
+        font-size: .2rem;
+        text-decoration: line-through;
+    }
+    .YX-N-M-EB26 .u-EB26-goods-price .u-EB26-goods-retailPrice:before {
+        content: '¥';
+    }
+    .YX-N-M-EB26 .u-EB26-goods-price .u-EB26-goods-retailPrice:after {
+        content: '*';
+    }
+    .YX-N-M-EB26 .u-EB26-goods-btn {
+        display: block;
+        width: 1.46rem;
+        height: .48rem;
+        color: #fff;
+        background-color: #b4282d;
+        -webkit-border-radius: .04rem;
+        border-radius: .04rem;
+        font-size: .2rem;
+        line-height: .48rem;
+        text-align: center;
+    }
+    .YX-N-M-EB26 .u-EB26-goods-tip {
+        color: #999;
+        margin: .05rem auto 0;
+        padding: 0;
+        font-size: .2rem;
+    }
+}

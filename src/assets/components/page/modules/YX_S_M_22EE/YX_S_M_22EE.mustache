@@ -1,0 +1,29 @@
+ <div class="YX-S-M-22EE m-section-module">
+                <div class="J_module_info f-hide" style="display: none;">
+                    <div class="goodsId" data-goodsId="{{contentInfo.goodsId}}"></div>
+                </div>
+                <div class="m-22EE-inner">
+                    <ul class="m-22EE-goods">
+                        {{#temp}}
+                        <li class="u-22EE-item">
+                            <div class="u-22EE-good">
+                                <a href="http://you.163.com/item/detail?id={{id}}" target="_blank" class="u-22EE-link">
+                                    <img  class="J_lazyload" src="{{scenePicUrl}}" data-original="{{scenePicUrl}}" >
+                                     {{#leftdesc}}<div class=u-22EE-leftdesc><span>{{leftdesc}}</span></div>{{/leftdesc}}
+                                </a>
+                                <div class="m-22EE-goods-info">
+                                    <p class="u-22EE-goods-t">
+                                        {{#maker}}<span class="u-22EE-goods-maker">{{maker}}</span>{{/maker}}
+                                        <span class="u-22EE-goods-title"><a href="http://you.163.com/item/detail?id={{id}}" target="_blank">{{title}}</a></span>
+                                    </p>
+                                    <p class="u-22EE-goods-desc">{{#simpleDesc}}{{simpleDesc}}{{/simpleDesc}}</p>
+                                    <div class="m-22EE-btn">
+                                        <a href="#" target="_blank" class="u-22EE-btn">{{btntext}}</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        {{/temp}}
+                    </ul>
+                </div>
+            </div>

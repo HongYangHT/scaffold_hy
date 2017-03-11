@@ -1,0 +1,99 @@
+.YX-S-M-77DE {
+  position: relative;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-color: #fff;
+}
+.YX-S-M-77DE .m-77DE-inner {
+  position: relative;
+  width: 650px;
+  margin: 0 auto;
+  overflow: auto;
+  background-color: #fff;
+}
+.YX-S-M-77DE .m-77DE-img-wrap{
+  width:530px;
+  height: 331px;
+  margin:0 auto;
+}
+
+.YX-S-M-77DE .u-77DE-inner-input{
+  padding-top: 48px;
+}
+.YX-S-M-77DE .u-77DE-input{
+  display: inline-block;
+  width: 350px;
+  height: 53px;
+  text-align: center;
+  font-size: 18px;
+  color:#a6a094;
+  box-shadow: none; 
+  border:none; 
+  background-color: #f5f3ef;
+  border:1px solid #b4a078;
+  border-radius: 3px;
+  outline-style: none ;
+}
+
+.YX-S-M-77DE .u-77DE-input.active{
+  border:1px solid #ff632f;
+}
+.YX-S-M-77DE .m-77DE-btn{
+  display: inline-block;
+  width: 168px;
+  height: 55px;
+  line-height: 52px;
+  background-color: #b4a078;
+  margin-left: 5px;
+  border-radius: 3px;
+}
+.YX-S-M-77DE .u-77DE-checkLink{
+  text-align: center;
+  vertical-align: middle;
+  font-size: 18px;
+  color:#fff;
+  display: block;
+}
+.YX-S-M-77DE .u-77DE-checkLink:hover{
+  color: #fff;
+}
+.YX-S-M-77DE .u-77DE-checkIcon{
+    display: inline-block;
+    width: 21px;
+    height: 21px;
+    vertical-align: middle;
+    margin-right:5px;
+    background: url("http://mimg.127.net/hz/uploader/20170228/14882622696720037.png") center center no-repeat;
+}
+
+
+.YX-S-M-77DE .m-77DE-inner-tip {
+  color: #202020;
+  padding:15px 0;
+  font-size: 16px;
+  line-height: 23px;
+  vertical-align: middle;
+}
+.YX-S-M-77DE .m-77DE-tip{
+  margin-top: 10px;
+}
+.YX-S-M-77DE .m-77DE-tip .u-77DE-step{
+  display: inline-block;
+  width:63px;
+  vertical-align: top;
+}
+.YX-S-M-77DE .m-77DE-tip .u-77DE-tip{
+  display: inline-block;
+  width:467px;
+}
+.YX-S-M-77DE .u-77DE-footer{
+  margin-top:32px;
+  text-align:center;
+  color:#9e885b;
+}
+.YX-S-M-77DE .u-77DE-footer span{
+  border-bottom:1px solid #9e885b;
+}
+.u-77DE-couponLink{
+    color:#9e885b;
+}

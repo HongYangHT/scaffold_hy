@@ -1,0 +1,20 @@
+ <div class="YX-S-M-F5F5 m-section-module" data-h55970f92="bannerImage">
+    <div class="J_module_info" style="display: none;">
+        <div class="coupon" data-coupon="{{contentInfo.coupon}}"></div>
+        <div class="couponLink" data-couponLink="{{contentInfo.couponLink}}"></div>
+        <div class="popBg" data-popBg="{{contentInfo.popBg}}"></div>
+        <div class="ajaxLink" data-ajaxLink="{{contentInfo.ajaxLink}}"></div>
+    </div>
+    <div class="m-F5F5-img-wrap" data-h55970f92="link">
+    	{{#contentInfo.couponLink}}
+	    	<a href="{{contentInfo.couponLink}}" target="_blank">	
+	            <img src="{{contentInfo.bannerImage}}" data-original="{{contentInfo.bannerImage}}" class="J_lazyload J_needImage"/>
+	        </a>
+        {{/contentInfo.couponLink}}
+        {{^contentInfo.couponLink}}
+	    	<a href="javascript:;" target="_self" class="J_F5F5_getCoupon">	
+	            <img src="{{contentInfo.bannerImage}}" data-original="{{contentInfo.bannerImage}}" class="J_lazyload J_needImage"/>
+	        </a>
+        {{/contentInfo.couponLink}}    
+    </div>
+</div>

@@ -1,0 +1,80 @@
+html,
+body {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    cursor: url(../imgs/round.ico), default;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    -webkit-user-select: none;
+    -webkit-text-size-adjust: none;
+}
+
+
+/* 改变鼠标默认样式 */
+
+a,
+input,
+button,
+textarea,
+radio,
+vedio,
+canvas,
+svg {
+    cursor: url(../imgs/round.ico), default;
+}
+a:hover{
+    cursor: url(../imgs/round.ico), default;
+}
+#scrollWrapper {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left: 0;
+    /* Prevent native touch events on Windows */
+    -ms-touch-action: none;
+    /* Prevent the callout on tap-hold and text selection */
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    overflow: hidden;
+    -webkit-backface-visibility: hidden;
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+#adaptPreview{
+    padding: 0;
+    margin: 0;
+    -webkit-tap-highlight-color:transparent;
+    z-index:1;
+}
+.m-psc-oparate {
+    display: none;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #fff;
+    -webkit-box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.3);
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #999;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}

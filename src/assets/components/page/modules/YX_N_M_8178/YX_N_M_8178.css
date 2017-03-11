@@ -1,0 +1,381 @@
+@media only screen and (min-width: 320px) and (max-width: 357px) {
+    html {
+        font-size: 312.5%;
+    }
+}
+
+@media only screen and (min-width: 357px) and (max-width: 375px) {
+    html {
+        font-size: 351.5625%;
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 400px) {
+    html {
+        font-size: 366.211%;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 414px) {
+    html {
+        font-size: 390.625%;
+    }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 440px) {
+    html {
+        font-size: 404.2969%;
+    }
+}
+
+@media only screen and (min-width: 440px) and (max-width: 480px) {
+    html {
+        font-size: 429.6875%;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 520px) {
+    html {
+        font-size: 468.75%;
+    }
+}
+
+@media only screen and (min-width: 520px) and (max-width: 560px) {
+    html {
+        font-size: 507.8125%;
+    }
+}
+
+@media only screen and (min-width: 560px) and (max-width: 600px) {
+    html {
+        font-size: 546.875%;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 640px) {
+    html {
+        font-size: 585.9375%;
+    }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 680px) {
+    html {
+        font-size: 625%;
+    }
+}
+
+@media only screen and (min-width: 680px) and (max-width: 720px) {
+    html {
+        font-size: 664.0625%;
+    }
+}
+
+@media only screen and (min-width: 720px) and (max-width: 760px) {
+    html {
+        font-size: 703.125%;
+    }
+}
+
+@media only screen and (min-width: 760px) and (max-width: 800px) {
+    html {
+        font-size: 742.1875%;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 960px) {
+    html {
+        font-size: 781.25%;
+    }
+}
+
+@media only screen and (device-width: 320px) and (device-height: 480px) and (-webkit-min-pixel-ratio: 2) and (orientation: portrait) {
+    html {
+        font-size: 312.5%;
+    }
+}
+
+@media only screen and (device-width: 320px) and (device-height: 568px) and (-webkit-min-pixel-ratio: 2) and (orientation: portrait) {
+    html {
+        font-size: 312.5%;
+    }
+}
+
+@media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-min-pixel-ratio: 2) and (orientation: portrait) {
+    html {
+        font-size: 366.211%;
+    }
+}
+
+@media only screen and (device-width: 414px) and (device-height: 736px) and (-webkit-min-pixel-ratio: 3) and (orientation: portrait) {
+    html {
+        font-size: 404.2969%;
+    }
+}
+.YX-N-M-8178 {
+  width: 640px;
+  max-width: 640px;
+  margin: 0 auto;
+  background: #f4f4f4;
+
+}
+.YX-N-M-8178 .m-8178-inner {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+.YX-N-M-8178 .m-8178-title {
+  margin-bottom:2px;
+  text-align: center;
+  width: 100%;
+  height: 98px;
+  background-color: #fff;
+}
+.YX-N-M-8178 .m-8178-title .u-8178-title {
+  color: #333;
+  padding: 35px 0;
+  font-size: 28px;
+  line-height: 28px;
+  text-align: center;
+}
+
+
+.YX-N-M-8178 .m-8178-goods {
+  width: 640px;
+  margin: 0 auto;
+  font-size: 0;
+}
+.YX-N-M-8178 .m-8178-goods .u-8178-goods {
+  display: inline-block;
+  width: 319px;
+  background: #fff;
+  margin-bottom: 2px;
+}
+.YX-N-M-8178 .m-8178-goods .u-8178-goods:nth-child(odd) {
+  margin-right: 2px;
+}
+
+.YX-N-M-8178 .u-8178-goods .u-8178-link {
+  display: block;
+  width: 265px;
+  height: 265px;
+  margin: 0 auto 15px;
+  background: #fff;
+}
+.YX-N-M-8178 .u-8178-goods .m-8178-goods-info {
+  position: relative;
+  text-align: center;
+}
+.YX-N-M-8178 .m-8178-goods-info .u-8178-goods-t {
+  width: 90%;
+  color: #333333;
+  margin: 0 auto 7px;
+  font-size: 23px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.YX-N-M-8178 .m-8178-goods-info .u-8178-goods-t a {
+  color: #333;
+}
+.YX-N-M-8178 .m-8178-goods-info .u-8178-goods-t a:hover{
+  color:#b4272d;
+}
+.YX-N-M-8178 .m-8178-goods-info .u-8178-goods-price {
+  text-align: center;
+}
+.YX-N-M-8178 .m-8178-goods-info .u-8178-couponPrice {
+  color: #b4272d;
+  font-size: 30px;
+  margin-right: 5px;
+}
+.YX-N-M-8178 .m-8178-goods-info .u-8178-offPrice {
+  color: #b4272d;
+  font-size: 30px;
+  margin-right: 5px;
+}
+.YX-N-M-8178 .m-8178-goods-info .u-8178-couponPrice:before {
+  content: "券后";
+  font-size:20px;
+  color:#464646;
+  margin-right: 5px;
+  vertical-align: 1px;
+}
+.YX-N-M-8178 .m-8178-goods-info .u-8178-unitPrice {
+  color: #a5a5a5;
+  font-size: 20px;
+  text-decoration: line-through;
+}
+.YX-N-M-8178 .m-8178-goods-info .u-8178-unitPrice:before {
+  content: "￥";
+}
+.YX-N-M-8178 .m-8178-goods-info .u-8178-unitPrice:after {
+  content: "*";
+}
+.YX-N-M-8178 .u-8178-goods .m-8178-btn {
+  position: relative;
+  margin-top: 7px;
+  margin-bottom: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
+.YX-N-M-8178 .m-8178-btn a {
+  display: inline-block;
+}
+.YX-N-M-8178 .m-8178-btn .u-8178-btn {
+  width: 145px;
+  height: 47px;
+  color: #fff;
+  background: #b4282d;
+  border-radius: 4px;
+  font-size: 20px;
+  line-height: 47px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+@media (max-width: 960px) {
+  .YX-N-M-8178 {
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto;
+    background: #f4f4f4;
+  }
+  .YX-N-M-8178 .m-8178-inner {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    padding: .2rem 0;
+  }
+  .YX-N-M-8178 .m-8178-title {
+    margin-bottom: .02rem;
+    text-align: center;
+    height: 0.98rem;
+    background-color: #fff;
+  }
+  .YX-N-M-8178 .m-8178-title .u-8178-title {
+    color: #333;
+    padding: .35rem 0;
+    font-size: .28rem;
+    line-height: .28rem;
+    text-align: center;
+  }
+  
+  
+  .YX-N-M-8178 .m-8178-goods {
+    width: 6.4rem;
+    margin: 0 auto;
+    font-size: 0;
+  }
+  .YX-N-M-8178 .m-8178-goods .u-8178-goods {
+    display: inline-block;
+    width: 3.19rem;
+    background: #fff;
+    margin-bottom: .02rem;
+  }
+  .YX-N-M-8178 .m-8178-goods .u-8178-goods:nth-child(odd) {
+    margin-right: .02rem;
+  }
+
+  .YX-N-M-8178 .u-8178-goods .u-8178-link {
+    display: block;
+    width: 2.65rem;
+    height: 2.65rem;
+    margin: 0 auto .15rem;
+    background: #fff;
+  }
+  .YX-N-M-8178 .u-8178-goods .m-8178-goods-info {
+    position: relative;
+    text-align: center;
+  }
+  .YX-N-M-8178 .m-8178-goods-info .u-8178-goods-t {
+    width: 90%;
+    color: #515151;
+    margin: 0 auto .07rem;
+    font-size: .23rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .YX-N-M-8178 .m-8178-goods-info .u-8178-goods-t a {
+    color:#333;
+  }
+  .YX-N-M-8178 .m-8178-goods-info .u-8178-goods-t a:hover{
+  color:#b4272d;
+}
+  .YX-N-M-8178 .m-8178-goods-info .u-8178-goods-price {
+    text-align: center;
+  }
+  .YX-N-M-8178 .m-8178-goods-info .u-8178-couponPrice {
+    color: #b4272d;
+    font-size: .3rem;
+    margin-right: .05rem;
+  }
+    .YX-N-M-8178 .m-8178-goods-info .u-8178-offPrice {
+    color: #b4272d;
+    font-size: .3rem;
+    margin-right: .05rem;
+  }
+  .YX-N-M-8178 .m-8178-goods-info .u-8178-couponPrice:before {
+    content: "券后";
+    font-size:0.2rem;
+    color:#464646;
+    margin-right: 0.05rem;
+    vertical-align: 0.01rem;
+  }
+  .YX-N-M-8178 .m-8178-goods-info .u-8178-unitPrice {
+    color:#a5a5a5;
+    font-size: .2rem;
+    text-decoration: line-through;
+  }
+  .YX-N-M-8178 .m-8178-goods-info .u-8178-unitPrice:before {
+    content: "￥";
+  }
+  .YX-N-M-8178 .m-8178-goods-info .u-8178-unitPrice:after {
+    content: "*";
+  }
+  .YX-N-M-8178 .u-8178-goods .m-8178-btn {
+    position: relative;
+    margin-top: .07rem;
+    margin-bottom: .3rem;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .YX-N-M-8178 .m-8178-btn a {
+    display: inline-block;
+  }
+  .YX-N-M-8178 .m-8178-btn .u-8178-btn {
+    width: 1.45rem;
+    height: .47rem;
+    color: #fff;
+    background:#b4282d;
+    border-radius: .04rem;
+    font-size: .2rem;
+    line-height: .47rem;
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  .m-toast {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 0 .2rem;
+    height: .3rem;
+    text-align: center;
+    z-index: 49;
+  }
+  .u-toast {
+    color: #fff;
+    height: .3rem;
+    font-size: .24rem;
+    line-height: .3rem;
+    text-align: center;
+  }
+  
+}

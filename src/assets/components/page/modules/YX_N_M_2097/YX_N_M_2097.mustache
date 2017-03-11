@@ -1,0 +1,35 @@
+<div class="YX-N-M-2097 m-section-module">
+    <div class="J_module_info f-hide" style="display: none;">
+        <div class="goodsId" data-goodsId="{{contentInfo.goodsId}}"></div>    </div>
+    <div class="m-2097-inner">
+            <div class="m-2097-title">
+                <div class="u-2097-border-content"><p data-h55970f92="title">{{contentInfo.title}}</p></div>
+            </div>
+            <ul class="m-2097-goods">
+                {{#temp}}
+                <li class="u-2097-goods">
+                    <div class="u-2097-goodsImg">
+                        <img src="{{scenePicUrl}}" data-original="{{scenePicUrl}}" class="J_lazyload">
+                        {{#oldUserFlag}}<div class="u-2097-isOldUser"><p>老用户订单满88免单</p></div>{{/oldUserFlag}}
+                    </div>
+                    <div class="u-2097-intro"><a target="_blank" class="u-2097-title" href="http://you.163.com/item/detail?id={{id}}">{{title}}</a>
+                        <p class="u-2097-info">{{simpleDesc}}</p>
+                        {{#couponPrice}}
+                        <p class="u-2097-price">
+                            <span class="u-2097-couponPrice"><span class="u-2097-unit">&yen;&nbsp;</span>{{couponPrice}}</span>
+                            <span class="u-2097-unitPrice">{{retailPrice}}</span>
+                        </p>
+                        {{/couponPrice}}
+                        <div class="m-2097-btn"><a href="{{btnLink}}" target="_self" class="u-2097-btnlink">{{btnText}}</a>
+                        </div>
+                    </div>
+                </li>
+                {{/temp}}
+            </ul>
+            
+            
+    </div>
+
+</div>
+
+

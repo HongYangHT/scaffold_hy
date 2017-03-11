@@ -1,0 +1,33 @@
+<div class="YX-N-M-8178 m-section-module">
+	<div class="J_module_info f-hide" style="display: none;">
+		<div class="goodsId" data-goodsId="{{contentInfo.goodsId}}"></div>
+		<div class="needScenePicUrl" data-needScenePicUrl="{{contentInfo.needScenePicUrl}}"></div>
+	</div>
+	<div class="m-8178-inner" style="background-color: {{contentInfo.bgColor}}">
+		<div class="m-8178-title">
+			<p class="u-8178-title" data-h55970f92="title">{{contentInfo.title}}</p>
+		</div>
+		<div class="m-8178-goods">
+			{{#temp}}
+			<div class="u-8178-goods">
+				<a href="http://you.163.com/item/detail?id={{id}}" target="_blank" class="u-8178-link">
+					<img src="{{primaryPicUrl}}" data-original="{{primaryPicUrl}}" class="J_lazyload">
+				</a>
+				<div class="m-8178-goods-info">
+					<p class="u-8178-goods-t"><a href="http://you.163.com/item/detail?id={{id}}" target="_blank">{{title}}</a></p>
+					{{#couponPrice}}
+					<p class="u-8178-goods-price">
+						<span class="u-8178-couponPrice">&yen;{{couponPrice}}</span>
+						<span class="u-8178-unitPrice">{{retailPrice}}</span>
+					</p>
+					{{/couponPrice}}
+					<div class="m-8178-btn">
+						<a href="http://you.163.com/item/detail?id={{id}}" target="_blank" class="u-8178-btn">{{btnText}}</a>
+					</div>
+				</div>
+			</div>
+			{{/temp}}
+		</div>		
+	</div>
+</div>
+			
